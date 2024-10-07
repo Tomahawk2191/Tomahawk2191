@@ -2,7 +2,7 @@
 
 I'm currently an undergraduate at **Northeastern University** studying **Computer Science and Game Development**. In my spare time, I love to play games that I can sink hundreds of hours into learning and iterating on.
 
-If you're interested in contacting me for work or just to talk, you can find me on [LinkedIn](https://www.linkedin.com/in/isaac-polite/), or at polite.i@northeastern.edu
+If you're interested in contacting me for work or just to talk, you can find me on [LinkedIn](https://www.linkedin.com/in/isaac-polite/), or at polite.i@northeastern.edu.
 
 <!--
 **Tomahawk2191/Tomahawk2191** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
