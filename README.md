@@ -1,2 +1,2 @@
 ## `whoami`
-prev. intern @ google<br>cs + game development @ northeastern<br>infra engineer @ generate
+software engineering co-op @ air space intelligence<br>prev. intern @ google<br>chief of infrastructure @ generate<br>cs + game development @ northeastern
